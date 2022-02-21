@@ -14,6 +14,6 @@ Follow these steps to set up correctly:
  - Click Add settings to be able to add Advertising, Analytics, Personalization consent states. (Here you can select your Variable which can be false, true, granted or denied)
 4. Publish changes.
 
-Note:
-granted or true - means that the user has agreed to collect certain data.
-denied or false - means that the user has not agreed to the data collection.
+> Note:
+> granted or true - means that the user has agreed to collect certain data.
+> denied or false - means that the user has not agreed to the data collection.
