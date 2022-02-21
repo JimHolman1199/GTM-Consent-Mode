@@ -1,4 +1,11 @@
-﻿___INFO___
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+___INFO___
 
 {
   "type": "TAG",
@@ -758,6 +765,6 @@ setup: |-
 
 ___NOTES___
 
-Created on 07/10/2020, 10:39:35
+Created on 21/2/2022, 11:48:11
 
 
