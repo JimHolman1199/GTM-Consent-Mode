@@ -1,5 +1,5 @@
 homepage: "https://utmstage.raccoondepot.com/"
 documentation: "https://github.com/JimHolman1199/GTM-Consent-Mode"
 versions:
-  - sha: de9acd0b7159e8ebd549bd981229dd1ae8870a55
+  - sha: 0bdeb1bcccb4598edeb841730f7d0c97460f2ea7
     changeNotes: Initial release.
