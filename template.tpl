@@ -31,7 +31,9 @@ ___TEMPLATE_PARAMETERS___
     "type": "SELECT",
     "name": "command",
     "displayName": "Consent Command",
-    "categories": ["UTILITY", "TAG_MANAGEMENT", "PERSONALIZATION"],
+    "categories": ["UTILITY",
+    "ANALYTICS",
+    "ADVERTISING"],
     "selectItems": [
       {
         "value": "default",
