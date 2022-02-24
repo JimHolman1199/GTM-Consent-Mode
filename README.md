@@ -5,7 +5,7 @@ Privacy regulations, such as the European Union's GDPR, restrict websites from g
 You can configure these mechanisms to be consent-aware. When consent-aware, tag functionality depends upon the level of consent. For example, you can configure Google tags to not write or read cookies until the user provides consent. When a visitor grants consent, it restores tag functionality, based on the behavior you configure.
 
 Follow these steps to set up correctly:
-1. Download a template from the template gallery.
+1. Download a template from the template gallery (or here template.tpl file 1. go to https://raw.githubusercontent.com/JimHolman1199/GTM-Consent-Mode/master/template.tpl right click on page and Save as template.tpl 2. go to GTM container, template and click Import ).
 2. Create a new Tag with the Consent mode template, which will trigger on Consent Initialization trigger type.
  - 'Consent Command' should be 'Default'.
  - Click 'Add settings' to be able to add Advertising, Analytics, Personalization consent states. (Here you can select your Variable which can be false, true, granted or denied).
